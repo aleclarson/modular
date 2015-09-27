@@ -1,0 +1,9 @@
+{
+  "name": "modular",
+  "bin": {
+    "modular": "./index.coffee"
+  },
+  "dependencies": {
+    "lotus-require": "aleclarson/lotus-require#1.0.0"
+  }
+}
